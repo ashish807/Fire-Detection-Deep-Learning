@@ -1,3 +1,2 @@
-Ashish
-
-I am doing object detection part for our minor project, here you can find code for object detection
+•	It can be used in day to day live CCTV footage, which will inform responsible authorities if a fire takes place.
+•	Technology used: Python, Convolution Neural Network, Open CV
