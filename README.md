@@ -6,7 +6,7 @@ It can be implemented in live CCTV which will alert the authorites if fire take 
 
 This was a demo project for Deep Learning.
 
-Demo for how to use [TensorFlow]() to train a model, how to pre-process the data in the Tensorflow
+Demo for how to use [TensorFlow](https://www.tensorflow.org/) to train a model, how to pre-process the data in the Tensorflow
 
 This will surely give you a idea how to work on Tensorflow, if you are a beginner.
 
